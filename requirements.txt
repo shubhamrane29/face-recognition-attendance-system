@@ -1,6 +1,0 @@
-opencv-python
-Pillow
-face_recognition
-datetime
-tk
-os-sys
