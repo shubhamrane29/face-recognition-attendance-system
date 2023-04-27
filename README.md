@@ -29,3 +29,9 @@ Overall, the methodology involves the following steps:
 
 ### Work flow
 ![image](https://user-images.githubusercontent.com/102586176/234610296-133dcbc9-13ae-4f95-9d87-5d7d6655b598.png)
+
+
+### Challenges
+- The face recognition library needs dlib and CMake, which are C++ libraries. It was a big task installing them, and a [YouTube tutorial](https://youtu.be/eaEndTeUiSU) helped me do it.
+- We need Visual Code Studio for C++ web development to make dlib and cmake work.
+- Also, the integration of Tkinter with OpenCV was a task that took a lot of research and work.
