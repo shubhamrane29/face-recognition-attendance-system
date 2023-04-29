@@ -27,11 +27,14 @@ Overall, the methodology involves the following steps:
 - Student dashboard contains the students academic attedance of the month
 - Tecahers dashboard consists of two major things, firstly there will be an option to coduct students attendance where teacher has to select the department first and then the subject and then scan the students face to register their attendance. The next option is Teachers Profile which contains the academic attendance of students department wise
 
-### Work flow
+### Work flow:
 ![image](https://user-images.githubusercontent.com/102586176/234610296-133dcbc9-13ae-4f95-9d87-5d7d6655b598.png)
 
 
-### Challenges
+### Challenges:
 - The face recognition library needs dlib and CMake, which are C++ libraries. It was a big task installing them, and a [YouTube tutorial](https://youtu.be/eaEndTeUiSU) helped me do it.
 - We need Visual Code Studio for C++ web development to make dlib and cmake work.
 - Also, the integration of Tkinter with OpenCV was a task that took a lot of research and work.
+
+### Demo
+Youtube video of working: https://youtu.be/E455BzxC8hE
